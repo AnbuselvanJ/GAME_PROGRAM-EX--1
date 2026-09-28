@@ -1,11 +1,13 @@
 # GAME_PROGRAM-EX--1
-EXP:1 Implementing various effects in a material such as emissive, roughness and metallic properties in Unreal Engine
-NAME:ANBUSELVAN J
-REG NO: 212225230015
-Aim
+#EXP:1 Implementing various effects in a material such as emissive, roughness and metallic properties in Unreal Engine
+
+#NAME:ANBUSELVAN J
+#REG NO: 212225230015
+
+#Aim:
 To create and demonstrate different material properties in Unreal Engine, including emissive lighting, surface roughness, and metallic effects, using the Material Editor.
 
-Procedure
+#Procedure
 1. Create a Material
 Launch Unreal Engine.
 In the Content Browser, right-click and choose Material.
@@ -34,5 +36,5 @@ Apply it to a mesh such as a sphere, cube, or any object in the scene to observe
 #Output:
 <img width="1080" height="609" alt="image" src="https://github.com/user-attachments/assets/c359b391-e5f2-4858-bcdd-bb15d877b3d0" />
 
-Result:
+#Result:
 The material was successfully created in Unreal Engine with the following features.A glowing emissive effect controlled through color and intensity parameters.Adjustable roughness levels to represent different surface textures.Metallic controls that simulate the reflective characteristics of metal surfaces.
